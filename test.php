@@ -1,2 +1,2 @@
 <?php
-Test ?>
+echo php_info(); ?>
