@@ -2,7 +2,7 @@
 /**
  * Socket and HttpSocket Group tests
  *
- * PHP versions 4 and 5
+ *dsjkfhsd PHP versions 4 and 5
  *
  * CakePHP(tm) Tests <http://book.cakephp.org/view/1196/Testing>
  * Copyright 2005-2011, Cake Software Foundation, Inc.
